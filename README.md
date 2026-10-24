@@ -18,7 +18,7 @@ A custom Fastfetch configuration featuring double-bordered boxes, Nerd Font icon
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/kizill-fastfetch.git
+   git clone https://github.com/kizill-top-jr/kizill-fastfetch.git
    ```
     Copy the config to your Fastfetch directory:
     ```bash
